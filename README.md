@@ -99,7 +99,7 @@ Try StorySprout here:
 https://storysprout-writeandcreate.lovable.app/
 
 ## Demo Video
-Demo Video: 
+Demo Video: https://youtu.be/tfQmqY3SqCY
 
 The demo demonstrates:
 
