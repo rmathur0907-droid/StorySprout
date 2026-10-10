@@ -158,4 +158,5 @@ Completed Story
 * Music according to the mood of the story.
 * Small animated video to bring the story to life.
 * Add a dictionary where children can search for meanings of the words they are unaware of.
-* Adding popular children's stories in the form of both video and reading form
+* Adding popular children's stories in the form of both video and reading form.
+* Adding different languages in both reading and narration. 
