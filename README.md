@@ -1,5 +1,4 @@
-<img width="1506" height="647" alt="Screenshot 2026-10-10 095101" src="https://github.com/user-attachments/assets/a62cfb94-adbf-4f09-acbd-a9d9382a11d8" /># 🌱 StorySprout
-
+StorySprout
 ### Big Imaginations,Start Small.
 
 StorySprout is an AI-powered creative storytelling companion that helps
@@ -112,21 +111,22 @@ The demo demonstrates:
 
 ## Screenshots
 Home Page
+
 <img width="1506" height="647" alt="Screenshot 2026-10-10 095101" src="https://github.com/user-attachments/assets/ae077221-c4b8-476b-ae67-2cd0ed839240" />
 
-
-
 Story Creation
-<img width="1177" height="582" alt="Screenshot 2026-10-10 095129" src="https://github.com/user-attachments/assets/4b5b1ed5-8ea3-4888-97cb-ebad3b3351d5" />
-<img width="1177" height="582" alt="Screenshot 2026-10-10 095129" src="https://github.com/user-attachments/assets/7fb1bfab-53ab-446d-8454-d8530c56384b" />
-<img width="1177" height="582" alt="Screenshot 2026-10-10 095129" src="https://github.com/user-attachments/assets/f2645d2d-f25f-444f-9fd3-326f4943325b" />
 
+<img width="1177" height="582" alt="Screenshot 2026-10-10 095129" src="https://github.com/user-attachments/assets/4b5b1ed5-8ea3-4888-97cb-ebad3b3351d5" />
+<img width="1222" height="487" alt="Screenshot 2026-10-10 095337" src="https://github.com/user-attachments/assets/e8807f40-9ec3-4ba3-a969-b231d5ef0b64" />
+<img width="1342" height="722" alt="Screenshot 2026-10-10 095442" src="https://github.com/user-attachments/assets/6772911f-310f-4f61-9fea-248e0714a587" />
 
 Completed Story
+
 <img width="850" height="612" alt="Screenshot 2026-10-10 095605" src="https://github.com/user-attachments/assets/ee38fb02-0a78-49a8-ab0f-fd85d7223cbc" />
 <img width="896" height="665" alt="Screenshot 2026-10-10 095621" src="https://github.com/user-attachments/assets/bd46c0ff-05b4-4207-baf1-34e498803f0a" />
 
 After Completion features
+
 <img width="868" height="473" alt="Screenshot 2026-10-10 095634" src="https://github.com/user-attachments/assets/d4f742d2-c7e5-42ba-8b88-0d72033f5637" />
 <img width="828" height="361" alt="Screenshot 2026-10-10 095651" src="https://github.com/user-attachments/assets/160f7890-5442-4d5d-b04b-c9e35a9e3005" />
 
