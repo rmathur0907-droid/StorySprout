@@ -157,3 +157,28 @@ After Completion features
 * Add a dictionary where children can search for meanings of the words they are unaware of.
 * Adding popular children's stories in the form of both video and reading form.
 * Adding different languages in both reading and narration. 
+
+## Hackathon Project
+
+StorySprout was created as part of ForgeHacks.
+
+The project explores how AI + Creativity can be used together to encourage children's
+creativity rather than replace it.
+
+## TEAM
+
+Rashi Mathur
+Role:  Founder & Product Developer
+
+I independently developed StorySprout, from the initial idea and problem identification to product design, AI-assisted development, and website deployment. I used Lovable to build and refine the user interface and storytelling experience, shaping the platform around the idea that AI should support children's creativity rather than replace it.
+
+My responsibilities included:
+
+* Ideation: Defining the problem and developing the StorySprout concept.
+* Product Design: Planning the user journey, interface, genre selection, and story-creation experience.
+* AI-Assisted Development: Using Lovable to build and refine the website and its features.
+* User Experience: Focusing on a simple, playful, and child-friendly storytelling experience.
+* Testing & Iteration: Reviewing the website and identifying areas for improvement.
+* Deployment: Publishing the website online and preparing it for demonstration.
+
+As a solo creator, I was responsible for bringing the project from concept to its current working version.
